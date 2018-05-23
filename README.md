@@ -1,5 +1,5 @@
 # atomist-spring-2
-my new project
+UPDATE README
 
 Based on seed project `spring-team:spring-rest-seed`
 
