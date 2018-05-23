@@ -1,5 +1,6 @@
 # atomist-spring-2
 UPDATE README
+WILL YOU DEPLOY NOW?
 
 Based on seed project `spring-team:spring-rest-seed`
 
